@@ -1,0 +1,13 @@
+
+.hero-img{
+    height: 90vh;
+    width: 100vw;
+    background-image: url('../image/disney-Lady.jpeg');
+    background-size: cover;
+     overflow: hidden;
+}
+
+
+.he{
+    color: hotpink;
+}
